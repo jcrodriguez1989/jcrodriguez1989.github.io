@@ -1,0 +1,224 @@
+---
+title: "Resume"
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+# Education
+
+* PhD in Computer Science
+
+<!-- Research topic: "Statistical/computational methodologies for functional  -->
+<!-- analysis at the level of gene isomorphisms". -->
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2014 - 2019 **est.**)*
+
+* MSc in Applied Statistics
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[FCA](http://www.agro.unc.edu.ar/), [FCE](http://www.eco.unc.edu.ar/) and [FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2014 - 2019 **est.**)*
+
+* MSc in Computer Science
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2007 - 2012)*
+
+* BSc in Computer Science
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2007 - 2009)*
+
+
+# Teaching Activities
+
+* Teaching Assistant
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(May 2014 - Present)*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Algorithms and Data Structures
+
+<!-- **Postgraduate course** -->
+
+<!-- [IBYME - CONICET](https://www.ibyme.org.ar/) *(December 2015)* -->
+
+<!-- "Chromatin and gene regulation: from the gen to the genome" -->
+
+* Teaching Associate
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Faculty of Engineering - [Catholic University of Córdoba](https://ucc.edu.ar/) *(2013 - 2014)*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Programming in Python
+
+* Student Assistant
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2011 - 2012)*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Algorithms and Data Structures II & Databases
+
+
+# Industry Experience
+
+* Software Engineer
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[Applied Research (INVAP](http://www.invap.com.ar/en/); *June 2013 - October 2013*)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+C ++ / Qt
+
+* QA Engineer
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+HPC Group at [Intel Corporation](https://www.intel.com) *(June 2012 - June 2013)*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+C, Perl, Python, Bash
+
+
+# R Packages
+
+**Bioconductor**
+
+* [MIGSA](http://bioconductor.org/packages/MIGSA/): Massive and Integrative Gene Set Analysis
+
+**GitHub**
+
+* [autokeras](https://github.com/jcrodriguez1989/autokeras): R interface to Auto-Keras
+
+* [KerasModelCreator](https://github.com/jcrodriguez1989/KerasModelCreator): Visually design Keras models for R language
+
+* [shinyWYSIWYG](https://github.com/jcrodriguez1989/shinyWYSIWYG): Shiny What You See Is What You Get (WYSIWYG) editor
+
+* [shinyParallel](https://github.com/jcrodriguez1989/shinyParallel): Run Shiny applications in a multi-session mode
+
+# Awards and Distinctions
+
+* University Award
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Diploma with Special Mention
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[National University of Córdoba](https://www.unc.edu.ar/english/) to the second best average of 
+2011 graduates
+
+* Substitute for First Escort
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2011)*
+
+
+# Scholarships
+
+* [Fulbright](https://www.cies.org/) exchange visiting scholarship
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+At the [University of Florida](http://www.ufl.edu/) *(2018)*
+
+* Doctoral Scholarship
+
+<!-- Research topic: "Information analysis and integration methodologies for genomic  -->
+<!-- data from mass sequencing technologies." -->
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[National Scientific and Technical Research Council, Argentina (CONICET](https://www.conicet.gov.ar/?lan=en); *2013 - 2019*)
+
+* Master's Scholarship
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Government of Córdoba, Argentina *(2007 - 2011)*
+
+
+# Publications
+
+**2018**
+
+* Rodriguez, J. C., Vargas Rojas C., Fernández, E. A.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ShinyWYSIWYG: a Shiny What You See Is What You Get editor.
+
+<!-- At the Latinamerican Conference About the Use of R in R&D. Buenos Aires. -->
+
+**2017**
+
+* Rodriguez, J. C., Prato L., Llera A. S., Fernández, E. A.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Effects of RNA-Seq data gene analysis methods, on the 
+over-representation analysis of gene 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+sets.
+
+<!-- At the Argentine Congress of Bioengineering. Córdoba. -->
+
+**2016**
+
+* Rodriguez, J. C., González, G. A., Fresno, C., Llera, A. S., Fernández, E. A.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[Improving Information Retrieval in Functional Analysis.](https://doi.org/10.1016/j.compbiomed.2016.09.017) **(Journal)**
+
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Computers in Biology and Medicine. Amsterdam; Year: 2016 vol. 79 p. 10 - 20 *(Journal)*. -->
+
+* Rodriguez, J. C., Merino, G. A., Prato L., Llera A. S., Fernández, E. A.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+The impact of RNA-Seq differential expression algorithms on 
+Over-Representation Analysis
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+of Gene Sets.
+
+<!-- In International Society for Computational Biology Latin America Bioinformatics  -->
+<!-- Conference. Buenos Aires. -->
+
+**2015**
+
+* Rodriguez, J. C., González, G., Fresno, C., & Fernández, E. A.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Integrative Functional Analysis Improves Information Retrieval in Breast Cancer.
+
+<!-- In Iberoamerican Congress on Pattern Recognition (pp. 43-50). Springer International -->
+<!-- Publishing. -->
+
+* Fresno C., González G. A., Merino G. A., Rodriguez J. C., Balzarini M., Fernández E. A.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+DNA Microarrays Quality Control by ANOVA-PCA / PLS decomposition.
+
+<!-- In XIX Scientific Meeting of the Biometry Argentine Group. -->
+
+
+# Research Exchange
+
+* At the [Ana Conesa Lab](http://conesalab.org/).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[University of Florida](http://www.ufl.edu/), USA *(October 2018 - December 2018)*
+
+* At the [Genomics of Gene Expression](http://conesalab.org/) group.
+
+<!-- Developing a European American NGS analysis Network. -->
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[Centro de Investigación Prícipe Felipe](www.cipf.es/en/), Valencia, Spain *(October 2017 - December 2017)*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+DEANN project (Marie Curie IRSES, European Commission, 2013)
+
+<!-- Languages: -->
+
+<!-- Spanish: Native. -->
+<!-- English: Advanced. -->

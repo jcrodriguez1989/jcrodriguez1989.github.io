@@ -1,0 +1,17 @@
+name: "Juan Cruz Rodriguez"
+output_dir: "."
+navbar:
+  title: "Juan Cruz Rodriguez"
+  left:
+    - text: "Resume"
+      href: resume.html
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/jcrodriguez1989/
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/CancuCS
+    - icon: fa-envelope fa-lg
+      href: mailto:jcrodriguez@unc.edu.ar
+output:
+  html_document:
+    theme: journal

@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Resume</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 61px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h2 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h3 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h4 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h5 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h6 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Juan Cruz Rodriguez</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="resume.html">Resume</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://github.com/jcrodriguez1989/">
+    <span class="fa fa-github fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/CancuCS">
+    <span class="fa fa-twitter fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="mailto:jcrodriguez@unc.edu.ar">
+    <span class="fa fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Resume</h1>
+
+</div>
+
+
+<div id="education" class="section level1">
+<h1>Education</h1>
+<ul>
+<li>PhD in Computer Science</li>
+</ul>
+<!-- Research topic: "Statistical/computational methodologies for functional  -->
+<!-- analysis at the level of gene isomorphisms". -->
+<p>        <a href="http://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2014 - 2019 <strong>est.</strong>)</em></p>
+<ul>
+<li>MSc in Applied Statistics</li>
+</ul>
+<p>        <a href="http://www.agro.unc.edu.ar/">FCA</a>, <a href="http://www.eco.unc.edu.ar/">FCE</a> and <a href="http://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2014 - 2019 <strong>est.</strong>)</em></p>
+<ul>
+<li>MSc in Computer Science</li>
+</ul>
+<p>        <a href="http://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2007 - 2012)</em></p>
+<ul>
+<li>BSc in Computer Science</li>
+</ul>
+<p>        <a href="http://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2007 - 2009)</em></p>
+</div>
+<div id="teaching-activities" class="section level1">
+<h1>Teaching Activities</h1>
+<ul>
+<li>Teaching Assistant</li>
+</ul>
+<p>        <a href="http://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(May 2014 - Present)</em></p>
+<p>        Algorithms and Data Structures</p>
+<!-- **Postgraduate course** -->
+<!-- [IBYME - CONICET](https://www.ibyme.org.ar/) *(December 2015)* -->
+<!-- "Chromatin and gene regulation: from the gen to the genome" -->
+<ul>
+<li>Teaching Associate</li>
+</ul>
+<p>        Faculty of Engineering - <a href="https://ucc.edu.ar/">Catholic University of Córdoba</a> <em>(2013 - 2014)</em></p>
+<p>        Programming in Python</p>
+<ul>
+<li>Student Assistant</li>
+</ul>
+<p>        <a href="http://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2011 - 2012)</em></p>
+<p>        Algorithms and Data Structures II &amp; Databases</p>
+</div>
+<div id="industry-experience" class="section level1">
+<h1>Industry Experience</h1>
+<ul>
+<li>Software Engineer</li>
+</ul>
+<p>        <a href="http://www.invap.com.ar/en/">Applied Research (INVAP</a>; <em>June 2013 - October 2013</em>)</p>
+<p>        C ++ / Qt</p>
+<ul>
+<li>QA Engineer</li>
+</ul>
+<p>        HPC Group at <a href="https://www.intel.com">Intel Corporation</a> <em>(June 2012 - June 2013)</em></p>
+<p>        C, Perl, Python, Bash</p>
+</div>
+<div id="r-packages" class="section level1">
+<h1>R Packages</h1>
+<p><strong>Bioconductor</strong></p>
+<ul>
+<li><a href="http://bioconductor.org/packages/MIGSA/">MIGSA</a>: Massive and Integrative Gene Set Analysis</li>
+</ul>
+<p><strong>GitHub</strong></p>
+<ul>
+<li><p><a href="https://github.com/jcrodriguez1989/autokeras">autokeras</a>: R interface to Auto-Keras</p></li>
+<li><p><a href="https://github.com/jcrodriguez1989/KerasModelCreator">KerasModelCreator</a>: Visually design Keras models for R language</p></li>
+<li><p><a href="https://github.com/jcrodriguez1989/shinyWYSIWYG">shinyWYSIWYG</a>: Shiny What You See Is What You Get (WYSIWYG) editor</p></li>
+<li><p><a href="https://github.com/jcrodriguez1989/shinyParallel">shinyParallel</a>: Run Shiny applications in a multi-session mode</p></li>
+</ul>
+</div>
+<div id="awards-and-distinctions" class="section level1">
+<h1>Awards and Distinctions</h1>
+<ul>
+<li>University Award</li>
+</ul>
+<p>        Diploma with Special Mention</p>
+<p>        <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> to the second best average of 2011 graduates</p>
+<ul>
+<li>Substitute for First Escort</li>
+</ul>
+<p>        <a href="http://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2011)</em></p>
+</div>
+<div id="scholarships" class="section level1">
+<h1>Scholarships</h1>
+<ul>
+<li><a href="https://www.cies.org/">Fulbright</a> exchange visiting scholarship</li>
+</ul>
+<p>        At the <a href="http://www.ufl.edu/">University of Florida</a> <em>(2018)</em></p>
+<ul>
+<li>Doctoral Scholarship</li>
+</ul>
+<!-- Research topic: "Information analysis and integration methodologies for genomic  -->
+<!-- data from mass sequencing technologies." -->
+<p>        <a href="https://www.conicet.gov.ar/?lan=en">National Scientific and Technical Research Council, Argentina (CONICET</a>; <em>2013 - 2019</em>)</p>
+<ul>
+<li>Master’s Scholarship</li>
+</ul>
+<p>        Government of Córdoba, Argentina <em>(2007 - 2011)</em></p>
+</div>
+<div id="publications" class="section level1">
+<h1>Publications</h1>
+<p><strong>2018</strong></p>
+<ul>
+<li>Rodriguez, J. C., Vargas Rojas C., Fernández, E. A.</li>
+</ul>
+<p>        ShinyWYSIWYG: a Shiny What You See Is What You Get editor.</p>
+<!-- At the Latinamerican Conference About the Use of R in R&D. Buenos Aires. -->
+<p><strong>2017</strong></p>
+<ul>
+<li>Rodriguez, J. C., Prato L., Llera A. S., Fernández, E. A.</li>
+</ul>
+<p>        Effects of RNA-Seq data gene analysis methods, on the over-representation analysis of gene</p>
+<p>        sets.</p>
+<!-- At the Argentine Congress of Bioengineering. Córdoba. -->
+<p><strong>2016</strong></p>
+<ul>
+<li>Rodriguez, J. C., González, G. A., Fresno, C., Llera, A. S., Fernández, E. A.</li>
+</ul>
+<p>        <a href="https://doi.org/10.1016/j.compbiomed.2016.09.017">Improving Information Retrieval in Functional Analysis.</a> <strong>(Journal)</strong></p>
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Computers in Biology and Medicine. Amsterdam; Year: 2016 vol. 79 p. 10 - 20 *(Journal)*. -->
+<ul>
+<li>Rodriguez, J. C., Merino, G. A., Prato L., Llera A. S., Fernández, E. A.</li>
+</ul>
+<p>        The impact of RNA-Seq differential expression algorithms on Over-Representation Analysis</p>
+<p>        of Gene Sets.</p>
+<!-- In International Society for Computational Biology Latin America Bioinformatics  -->
+<!-- Conference. Buenos Aires. -->
+<p><strong>2015</strong></p>
+<ul>
+<li>Rodriguez, J. C., González, G., Fresno, C., &amp; Fernández, E. A.</li>
+</ul>
+<p>        Integrative Functional Analysis Improves Information Retrieval in Breast Cancer.</p>
+<!-- In Iberoamerican Congress on Pattern Recognition (pp. 43-50). Springer International -->
+<!-- Publishing. -->
+<ul>
+<li>Fresno C., González G. A., Merino G. A., Rodriguez J. C., Balzarini M., Fernández E. A.</li>
+</ul>
+<p>        DNA Microarrays Quality Control by ANOVA-PCA / PLS decomposition.</p>
+<!-- In XIX Scientific Meeting of the Biometry Argentine Group. -->
+</div>
+<div id="research-exchange" class="section level1">
+<h1>Research Exchange</h1>
+<ul>
+<li>At the <a href="http://conesalab.org/">Ana Conesa Lab</a>.</li>
+</ul>
+<p>        <a href="http://www.ufl.edu/">University of Florida</a>, USA <em>(October 2018 - December 2018)</em></p>
+<ul>
+<li>At the <a href="http://conesalab.org/">Genomics of Gene Expression</a> group.</li>
+</ul>
+<!-- Developing a European American NGS analysis Network. -->
+<p>        <a href="www.cipf.es/en/">Centro de Investigación Prícipe Felipe</a>, Valencia, Spain <em>(October 2017 - December 2017)</em></p>
+<p>        DEANN project (Marie Curie IRSES, European Commission, 2013)</p>
+<!-- Languages: -->
+<!-- Spanish: Native. -->
+<!-- English: Advanced. -->
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

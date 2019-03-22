@@ -5,6 +5,8 @@ navbar:
   left:
     - text: "Resume"
       href: resume.html
+    - text: "Talks"
+      href: talks.html
   right:
     - icon: fa-github fa-lg
       href: https://github.com/jcrodriguez1989/

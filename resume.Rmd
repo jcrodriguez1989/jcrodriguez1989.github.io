@@ -6,6 +6,8 @@ output:
     toc_float: true
 ---
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
 # Education
 
 * PhD in Computer Science
@@ -139,6 +141,13 @@ Government of Córdoba, Argentina *(2007 - 2011)*
 
 
 # Publications
+
+**2019**
+
+* Rodriguez, J. C., Merino, G. A., Llera A. S., Fernández, E. A.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[Massive integrative gene set analysis enables functional characterization of breast cancer subtypes.](https://www.journals.elsevier.com/journal-of-biomedical-informatics) **(Journal - in press)**
 
 **2018**
 

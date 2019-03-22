@@ -1,0 +1,24 @@
+---
+title: "Talks"
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+**March 2019** "R in the high performance computing center: Parallelizing." [ES]
+
+Two-hour talk presenting how to parallelize R code (`parallel`), translating `for` loops into `lapply`, passing parameters from bash to my R script and run it in a SLURM cluster.
+
+`r emo::ji("earth")` [National University of Córdoba](https://www.unc.edu.ar/english/) - `r emo::ji("folder")` [Slides & Sample Code & Source Code](https://www.dropbox.com/sh/nvp8bd6qz6057n6/AAAFh0u5XxULCYzZW4XQYVbGa?dl=1)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+**May 2017** "Optimizing your R code!" [ES]
+
+Two-hour talk presenting tools and tips that allow to evaluate and make the most of the execution time of R code:
+profiling, benchmarking, `compiler`, pre-allocating memory, vectorization, standard and internal functions, `apply` vs `for` (scopes and translation), parallelism (`BiocParallel`).
+
+`r emo::ji("earth")` [Catholic University of Córdoba](https://ucc.edu.ar/) - `r emo::ji("folder")` [Slides & Sample Code](https://www.dropbox.com/sh/3lt5o3hi45uevhv/AADYWIC6oUgbY2EQAjPNBulZa?dl=1)

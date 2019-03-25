@@ -12,7 +12,7 @@ output:
 
 Two-hour talk presenting how to parallelize R code (`parallel`), translating `for` loops into `lapply`, passing parameters from bash to my R script and run it in a SLURM cluster.
 
-`r emo::ji("earth")` [National University of Córdoba](https://www.unc.edu.ar/english/) - `r emo::ji("folder")` [Slides & Sample Code & Source Code](https://www.dropbox.com/sh/nvp8bd6qz6057n6/AAAFh0u5XxULCYzZW4XQYVbGa?dl=1)
+`r emo::ji("earth")` [National University of Córdoba](https://www.unc.edu.ar/english/) - `r emo::ji("folder")` [Slides](https://www.dropbox.com/s/hr03b5v74xi2f3v/01_paralelizando.html?dl=1) - `r emo::ji("folder")` [Sample Code & Source Code](https://www.dropbox.com/sh/nvp8bd6qz6057n6/AAAFh0u5XxULCYzZW4XQYVbGa?dl=1)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -21,4 +21,4 @@ Two-hour talk presenting how to parallelize R code (`parallel`), translating `fo
 Two-hour talk presenting tools and tips that allow to evaluate and make the most of the execution time of R code:
 profiling, benchmarking, `compiler`, pre-allocating memory, vectorization, standard and internal functions, `apply` vs `for` (scopes and translation), parallelism (`BiocParallel`).
 
-`r emo::ji("earth")` [Catholic University of Córdoba](https://ucc.edu.ar/) - `r emo::ji("folder")` [Slides & Sample Code](https://www.dropbox.com/sh/3lt5o3hi45uevhv/AADYWIC6oUgbY2EQAjPNBulZa?dl=1)
+`r emo::ji("earth")` [Catholic University of Córdoba](https://ucc.edu.ar/) - `r emo::ji("folder")` [Slides](https://www.dropbox.com/s/umgh1bmgbk2q87s/Seminario_speedup_R.pdf?dl=1) - `r emo::ji("folder")` [Sample Code](https://www.dropbox.com/sh/3lt5o3hi45uevhv/AADYWIC6oUgbY2EQAjPNBulZa?dl=1)

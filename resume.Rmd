@@ -154,7 +154,7 @@ Government of Córdoba, Argentina *(2007 - 2011)*
 * Rodriguez, J. C., Vargas Rojas C., Fernández, E. A.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-ShinyWYSIWYG: a Shiny What You See Is What You Get editor.
+[ShinyWYSIWYG: a Shiny What You See Is What You Get editor.](https://github.com/LatinR/presentaciones-LatinR2018#shinywysiwyg-a-shiny-what-you-see-is-what-you-get-editor-pdf-presentaci%C3%B3n--shiny-app--repositorio)
 
 <!-- At the Latinamerican Conference About the Use of R in R&D. Buenos Aires. -->
 
@@ -197,7 +197,7 @@ of Gene Sets.
 * Rodriguez, J. C., González, G., Fresno, C., & Fernández, E. A.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-Integrative Functional Analysis Improves Information Retrieval in Breast Cancer.
+[Integrative Functional Analysis Improves Information Retrieval in Breast Cancer.](https://doi.org/10.1007/978-3-319-25751-8_6)
 
 <!-- In Iberoamerican Congress on Pattern Recognition (pp. 43-50). Springer International -->
 <!-- Publishing. -->

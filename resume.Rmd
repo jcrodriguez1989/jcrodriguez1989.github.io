@@ -147,7 +147,7 @@ Government of Córdoba, Argentina *(2007 - 2011)*
 * Rodriguez, J. C., Merino, G. A., Llera A. S., Fernández, E. A.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[Massive integrative gene set analysis enables functional characterization of breast cancer subtypes.](https://www.journals.elsevier.com/journal-of-biomedical-informatics) **(Journal - in press)**
+[Massive integrative gene set analysis enables functional characterization of breast cancer subtypes.](https://doi.org/10.1016/j.jbi.2019.103157) **(Journal)**
 
 **2018**
 

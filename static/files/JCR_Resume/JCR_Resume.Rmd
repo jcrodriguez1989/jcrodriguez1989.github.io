@@ -1,36 +1,59 @@
 ---
-title: "[<i class='fas fa-download'></i>](static/files/JCR_Resume/JCR_Resume.pdf) Resume"
-output:
-  html_document: 
-    toc: true
-    toc_float: true
+name: Juan Cruz Rodriguez
+# position: "Teaching Assistant"
+# address: "Faculty of Mathematics, Physics and Astronomy - National University of Córdoba"
+# phone: +1 22 3333 4444
+# profilepic: mypic.jpg
+www: jcrodriguez.rbind.io/
+email: "jcrodriguez@unc.edu.ar"
+# twitter: mariecurie
+github: jcrodriguez1989
+# linkedin: mariecurie
+date: "`r Sys.setlocale('LC_TIME', 'C'); format(Sys.time(), '%B %Y')`"
+# aboutme: "Marie is a Polish and naturalized-French physicist and chemist who conducts pioneering research on radioactivity."
+output: vitae::moderncv
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<!-- vitae::moderncv -->
+<!-- vitae::twentyseconds -->
+<!-- vitae::awesomecv not working! -->
+<!-- vitae::hyndman -->
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
 
 # Education
 
+```{r}
+# data.frame(
+#   Period=c("2014 - 2019 est."),
+#   Degree=c("PhD in Computer Science"),
+#   Institution=c("FAMAF - National University of Córdoba")
+# ) %>% brief_entries(what = Degree, when = Period, with = Institution)
+```
 * PhD in Computer Science
 
 <!-- Research topic: "Statistical/computational methodologies for functional  -->
 <!-- analysis at the level of gene isomorphisms". -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 [FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2014 - 2019 **est.**)*
 
 * MSc in Applied Statistics
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 [FCA](http://www.agro.unc.edu.ar/), [FCE](http://www.eco.unc.edu.ar/) and [FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2014 - 2019 **est.**)*
 
 * MSc in Computer Science
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 [FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2007 - 2012)*
 
 * BSc in Computer Science
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 [FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2007 - 2009)*
 
 
@@ -38,10 +61,10 @@ output:
 
 * Teaching Assistant
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 [FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(May 2014 - Present)*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 Algorithms and Data Structures
 
 <!-- **Postgraduate course** -->
@@ -52,18 +75,18 @@ Algorithms and Data Structures
 
 * Teaching Associate
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 Faculty of Engineering - [Catholic University of Córdoba](https://ucc.edu.ar/) *(2013 - 2014)*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 Programming in Python
 
 * Student Assistant
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 [FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2011 - 2012)*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 Algorithms and Data Structures II & Databases
 
 
@@ -71,18 +94,18 @@ Algorithms and Data Structures II & Databases
 
 * Software Engineer
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 [Applied Research (INVAP](http://www.invap.com.ar/en/); *June 2013 - October 2013*)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 C ++ / Qt
 
 * QA Engineer
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 HPC Group at [Intel Corporation](https://www.intel.com) *(June 2012 - June 2013)*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 C, Perl, Python, Bash
 
 
@@ -106,16 +129,16 @@ C, Perl, Python, Bash
 
 * University Award
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 Diploma with Special Mention
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 [National University of Córdoba](https://www.unc.edu.ar/english/) to the second best average of 
 2011 graduates
 
 * Substitute for First Escort
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 [FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2011)*
 
 
@@ -123,7 +146,7 @@ Diploma with Special Mention
 
 * [Fulbright](https://www.cies.org/) exchange visiting scholarship
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 At the [University of Florida](http://www.ufl.edu/) *(2018)*
 
 * Doctoral Scholarship
@@ -131,12 +154,12 @@ At the [University of Florida](http://www.ufl.edu/) *(2018)*
 <!-- Research topic: "Information analysis and integration methodologies for genomic  -->
 <!-- data from mass sequencing technologies." -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 [National Scientific and Technical Research Council, Argentina (CONICET](https://www.conicet.gov.ar/?lan=en); *2013 - 2019*)
 
 * Master's Scholarship
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 Government of Córdoba, Argentina *(2007 - 2011)*
 
 
@@ -146,15 +169,18 @@ Government of Córdoba, Argentina *(2007 - 2011)*
 
 * Rodriguez, J. C., Merino, G. A., Llera A. S., Fernández, E. A.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[Massive integrative gene set analysis enables functional characterization of breast cancer subtypes.](https://doi.org/10.1016/j.jbi.2019.103157) **(Journal)**
+&nbsp;&nbsp; 
+[Massive integrative gene set analysis enables functional characterization of ](https://doi.org/10.1016/j.jbi.2019.103157)
+
+&nbsp;&nbsp; 
+[breast cancer subtypes.](https://doi.org/10.1016/j.jbi.2019.103157) **(Journal)**
 
 **2018**
 
 * Rodriguez, J. C., Vargas Rojas C., Fernández, E. A.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[ShinyWYSIWYG: a Shiny What You See Is What You Get editor.](https://github.com/LatinR/presentaciones-LatinR2018#shinywysiwyg-a-shiny-what-you-see-is-what-you-get-editor-pdf-presentaci%C3%B3n--shiny-app--repositorio)
+&nbsp;&nbsp; 
+ShinyWYSIWYG: a Shiny What You See Is What You Get editor.
 
 <!-- At the Latinamerican Conference About the Use of R in R&D. Buenos Aires. -->
 
@@ -162,11 +188,11 @@ Government of Córdoba, Argentina *(2007 - 2011)*
 
 * Rodriguez, J. C., Prato L., Llera A. S., Fernández, E. A.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 Effects of RNA-Seq data gene analysis methods, on the 
 over-representation analysis of gene 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 sets.
 
 <!-- At the Argentine Congress of Bioengineering. Córdoba. -->
@@ -175,18 +201,18 @@ sets.
 
 * Rodriguez, J. C., González, G. A., Fresno, C., Llera, A. S., Fernández, E. A.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 [Improving Information Retrieval in Functional Analysis.](https://doi.org/10.1016/j.compbiomed.2016.09.017) **(Journal)**
 
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Computers in Biology and Medicine. Amsterdam; Year: 2016 vol. 79 p. 10 - 20 *(Journal)*. -->
+<!-- &nbsp;&nbsp; Computers in Biology and Medicine. Amsterdam; Year: 2016 vol. 79 p. 10 - 20 *(Journal)*. -->
 
 * Rodriguez, J. C., Merino, G. A., Prato L., Llera A. S., Fernández, E. A.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 The impact of RNA-Seq differential expression algorithms on 
 Over-Representation Analysis
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 of Gene Sets.
 
 <!-- In International Society for Computational Biology Latin America Bioinformatics  -->
@@ -196,15 +222,15 @@ of Gene Sets.
 
 * Rodriguez, J. C., González, G., Fresno, C., & Fernández, E. A.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[Integrative Functional Analysis Improves Information Retrieval in Breast Cancer.](https://doi.org/10.1007/978-3-319-25751-8_6)
+&nbsp;&nbsp; 
+Integrative Functional Analysis Improves Information Retrieval in Breast Cancer.
 
 <!-- In Iberoamerican Congress on Pattern Recognition (pp. 43-50). Springer International -->
 <!-- Publishing. -->
 
 * Fresno C., González G. A., Merino G. A., Rodriguez J. C., Balzarini M., Fernández E. A.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 DNA Microarrays Quality Control by ANOVA-PCA / PLS decomposition.
 
 <!-- In XIX Scientific Meeting of the Biometry Argentine Group. -->
@@ -214,17 +240,17 @@ DNA Microarrays Quality Control by ANOVA-PCA / PLS decomposition.
 
 * At the [Ana Conesa Lab](http://conesalab.org/).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 [University of Florida](http://www.ufl.edu/), USA *(October 2018 - December 2018)*
 
 * At the [Genomics of Gene Expression](http://conesalab.org/) group.
 
 <!-- Developing a European American NGS analysis Network. -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 [Centro de Investigación Prícipe Felipe](www.cipf.es/en/), Valencia, Spain *(October 2017 - December 2017)*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 DEANN project (Marie Curie IRSES, European Commission, 2013)
 
 <!-- Languages: -->

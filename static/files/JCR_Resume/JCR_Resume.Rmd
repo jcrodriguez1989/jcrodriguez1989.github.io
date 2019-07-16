@@ -248,7 +248,7 @@ DNA Microarrays Quality Control by ANOVA-PCA / PLS decomposition.
 <!-- Developing a European American NGS analysis Network. -->
 
 &nbsp;&nbsp; 
-[Centro de Investigación Prícipe Felipe](www.cipf.es/en/), Valencia, Spain *(October 2017 - December 2017)*
+[Centro de Investigación Príncipe Felipe](http://www.cipf.es/en/), Valencia, Spain *(October 2017 - December 2017)*
 
 &nbsp;&nbsp; 
 DEANN project (Marie Curie IRSES, European Commission, 2013)

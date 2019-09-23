@@ -23,8 +23,8 @@ document.getElementById('id').style.borderRadius = '50%';
 
 #### Juan Cruz Rodriguez
 
-I have a master's degree in Computer Science, and I am finishing my master's degree in Applied Statistics and a PhD in Computer Science (hopefully I will defend both theses this year `r ji("sweat_smile")`). However, I would like to define myself as a computer science enthusiast. I really enjoy coding. My soul mate programming language is R `r ji("ring")`, however, I sometimes cheat on it with Python, C and C ++ `r ji("stuck_out_tongue_closed_eyes")`.
-I am always looking to gain new knowledge, no matter what area, but with an emphasis on computer science and statistics. Big Data can answer any question, as long as you know how to manage it.
+I have a PhD in Computer Science, and I am finishing my master's degree in Applied Statistics (hopefully I will defend this thesis this year `r ji("sweat_smile")`). However, I would like to define myself as a computer science enthusiast. I really enjoy coding. My soul mate programming language is R `r ji("ring")`, however, I sometimes cheat on it with Python, C and C ++ `r ji("stuck_out_tongue_closed_eyes")`.
+I am always looking to gain ew knowledge, no matter what area, but with an emphasis on computer science and statistics. Big Data can answer any question, as long as you know how to manage it.
 
 Science advances thanks to publicly available knowledge, so, for me, open-source coding is ideal. One of the most rewarding experiences is to see how useful for others are a contribution or tool made by me. I am really interested in making Data Science available to everyone.
 

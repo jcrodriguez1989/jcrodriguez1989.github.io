@@ -7,11 +7,12 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title> Resume</title>
+<title>Resume</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -88,7 +89,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -249,48 +249,9 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
-
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <style type="text/css">
 
@@ -417,12 +378,11 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore"><a href="static/files/JCR_Resume/JCR_Resume.pdf"><i class='fas fa-download'></i></a> Resume</h1>
+<h1 class="title toc-ignore">Resume</h1>
 
 </div>
 
 
-<p>       </p>
 <div id="education" class="section level1">
 <h1>Education</h1>
 <ul>
@@ -430,26 +390,26 @@ div.tocify {
 </ul>
 <!-- Research topic: "Statistical/computational methodologies for functional  -->
 <!-- analysis at the level of gene isomorphisms". -->
-<p>        <a href="https://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2014 - 2019 <strong>est.</strong>)</em></p>
+<p>        <a href="http://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2014 - 2019)</em></p>
 <ul>
 <li>MSc in Applied Statistics</li>
 </ul>
-<p>        <a href="http://www.agro.unc.edu.ar/">FCA</a>, <a href="http://www.eco.unc.edu.ar/">FCE</a> and <a href="https://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2014 - 2019 <strong>est.</strong>)</em></p>
+<p>        <a href="http://www.agro.unc.edu.ar/">FCA</a>, <a href="http://www.eco.unc.edu.ar/">FCE</a> and <a href="http://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2014 - 2019 <strong>est.</strong>)</em></p>
 <ul>
 <li>MSc in Computer Science</li>
 </ul>
-<p>        <a href="https://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2007 - 2012)</em></p>
+<p>        <a href="http://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2007 - 2012)</em></p>
 <ul>
 <li>BSc in Computer Science</li>
 </ul>
-<p>        <a href="https://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2007 - 2009)</em></p>
+<p>        <a href="http://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2007 - 2009)</em></p>
 </div>
 <div id="teaching-activities" class="section level1">
 <h1>Teaching Activities</h1>
 <ul>
 <li>Teaching Assistant</li>
 </ul>
-<p>        <a href="https://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(May 2014 - Present)</em></p>
+<p>        <a href="http://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(May 2014 - Present)</em></p>
 <p>        Algorithms and Data Structures</p>
 <!-- **Postgraduate course** -->
 <!-- [IBYME - CONICET](https://www.ibyme.org.ar/) *(December 2015)* -->
@@ -462,7 +422,7 @@ div.tocify {
 <ul>
 <li>Student Assistant</li>
 </ul>
-<p>        <a href="https://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2011 - 2012)</em></p>
+<p>        <a href="http://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2011 - 2012)</em></p>
 <p>        Algorithms and Data Structures II &amp; Databases</p>
 </div>
 <div id="industry-experience" class="section level1">
@@ -482,11 +442,7 @@ div.tocify {
 <h1>R Packages</h1>
 <p><strong>Bioconductor</strong></p>
 <ul>
-<li><a href="https://bioconductor.org/packages/MIGSA/">MIGSA</a>: Massive and Integrative Gene Set Analysis</li>
-</ul>
-<p><strong>CRAN</strong></p>
-<ul>
-<li><a href="https://CRAN.R-project.org/package=rflights">rflights</a>: Query Plane Tickets using the ‘Kiwi’ API</li>
+<li><a href="http://bioconductor.org/packages/MIGSA/">MIGSA</a>: Massive and Integrative Gene Set Analysis</li>
 </ul>
 <p><strong>GitHub</strong></p>
 <ul>
@@ -506,14 +462,14 @@ div.tocify {
 <ul>
 <li>Substitute for First Escort</li>
 </ul>
-<p>        <a href="https://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2011)</em></p>
+<p>        <a href="http://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2011)</em></p>
 </div>
 <div id="scholarships" class="section level1">
 <h1>Scholarships</h1>
 <ul>
 <li><a href="https://www.cies.org/">Fulbright</a> exchange visiting scholarship</li>
 </ul>
-<p>        At the <a href="https://www.ufl.edu/">University of Florida</a> <em>(2018)</em></p>
+<p>        At the <a href="http://www.ufl.edu/">University of Florida</a> <em>(2018)</em></p>
 <ul>
 <li>Doctoral Scholarship</li>
 </ul>
@@ -527,16 +483,11 @@ div.tocify {
 </div>
 <div id="publications" class="section level1">
 <h1>Publications</h1>
-<p><strong>2019</strong></p>
-<ul>
-<li>Rodriguez, J. C., Merino, G. A., Llera A. S., Fernández, E. A.</li>
-</ul>
-<p>        <a href="https://doi.org/10.1016/j.jbi.2019.103157">Massive integrative gene set analysis enables functional characterization of breast cancer subtypes.</a> <strong>(Journal)</strong></p>
 <p><strong>2018</strong></p>
 <ul>
 <li>Rodriguez, J. C., Vargas Rojas C., Fernández, E. A.</li>
 </ul>
-<p>        <a href="https://github.com/LatinR/presentaciones-LatinR2018#shinywysiwyg-a-shiny-what-you-see-is-what-you-get-editor-pdf-presentaci%C3%B3n--shiny-app--repositorio">ShinyWYSIWYG: a Shiny What You See Is What You Get editor.</a></p>
+<p>        ShinyWYSIWYG: a Shiny What You See Is What You Get editor.</p>
 <!-- At the Latinamerican Conference About the Use of R in R&D. Buenos Aires. -->
 <p><strong>2017</strong></p>
 <ul>
@@ -562,7 +513,7 @@ div.tocify {
 <ul>
 <li>Rodriguez, J. C., González, G., Fresno, C., &amp; Fernández, E. A.</li>
 </ul>
-<p>        <a href="https://doi.org/10.1007/978-3-319-25751-8_6">Integrative Functional Analysis Improves Information Retrieval in Breast Cancer.</a></p>
+<p>        Integrative Functional Analysis Improves Information Retrieval in Breast Cancer.</p>
 <!-- In Iberoamerican Congress on Pattern Recognition (pp. 43-50). Springer International -->
 <!-- Publishing. -->
 <ul>
@@ -576,12 +527,12 @@ div.tocify {
 <ul>
 <li>At the <a href="http://conesalab.org/">Ana Conesa Lab</a>.</li>
 </ul>
-<p>        <a href="https://www.ufl.edu/">University of Florida</a>, USA <em>(October 2018 - December 2018)</em></p>
+<p>        <a href="http://www.ufl.edu/">University of Florida</a>, USA <em>(October 2018 - December 2018)</em></p>
 <ul>
 <li>At the <a href="http://conesalab.org/">Genomics of Gene Expression</a> group.</li>
 </ul>
 <!-- Developing a European American NGS analysis Network. -->
-<p>        <a href="http://www.cipf.es/en/">Centro de Investigación Príncipe Felipe</a>, Valencia, Spain <em>(October 2017 - December 2017)</em></p>
+<p>        <a href="www.cipf.es/en/">Centro de Investigación Prícipe Felipe</a>, Valencia, Spain <em>(October 2017 - December 2017)</em></p>
 <p>        DEANN project (Marie Curie IRSES, European Commission, 2013)</p>
 <!-- Languages: -->
 <!-- Spanish: Native. -->
@@ -606,6 +557,49 @@ $(document).ready(function () {
 });
 
 
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
 </script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->

@@ -1,12 +1,10 @@
 ---
-title: "[<i class='fas fa-download'></i>](static/files/JCR_Resume/JCR_Resume.pdf) Resume"
+title: "Resume"
 output:
   html_document: 
     toc: true
     toc_float: true
 ---
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 # Education
 
@@ -16,22 +14,22 @@ output:
 <!-- analysis at the level of gene isomorphisms". -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2014 - 2019 **est.**)*
+[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2014 - 2019)*
 
 * MSc in Applied Statistics
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[FCA](http://www.agro.unc.edu.ar/), [FCE](http://www.eco.unc.edu.ar/) and [FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2014 - 2019 **est.**)*
+[FCA](http://www.agro.unc.edu.ar/), [FCE](http://www.eco.unc.edu.ar/) and [FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2014 - 2019 **est.**)*
 
 * MSc in Computer Science
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2007 - 2012)*
+[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2007 - 2012)*
 
 * BSc in Computer Science
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2007 - 2009)*
+[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2007 - 2009)*
 
 
 # Teaching Activities
@@ -39,7 +37,7 @@ output:
 * Teaching Assistant
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(May 2014 - Present)*
+[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(May 2014 - Present)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 Algorithms and Data Structures
@@ -61,7 +59,7 @@ Programming in Python
 * Student Assistant
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2011 - 2012)*
+[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2011 - 2012)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 Algorithms and Data Structures II & Databases
@@ -90,11 +88,7 @@ C, Perl, Python, Bash
 
 **Bioconductor**
 
-* [MIGSA](https://bioconductor.org/packages/MIGSA/): Massive and Integrative Gene Set Analysis
-
-**CRAN**
-
-* [rflights](https://CRAN.R-project.org/package=rflights): Query Plane Tickets using the 'Kiwi' API
+* [MIGSA](http://bioconductor.org/packages/MIGSA/): Massive and Integrative Gene Set Analysis
 
 **GitHub**
 
@@ -120,7 +114,7 @@ Diploma with Special Mention
 * Substitute for First Escort
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2011)*
+[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2011)*
 
 
 # Scholarships
@@ -128,7 +122,7 @@ Diploma with Special Mention
 * [Fulbright](https://www.cies.org/) exchange visiting scholarship
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-At the [University of Florida](https://www.ufl.edu/) *(2018)*
+At the [University of Florida](http://www.ufl.edu/) *(2018)*
 
 * Doctoral Scholarship
 
@@ -146,19 +140,12 @@ Government of Córdoba, Argentina *(2007 - 2011)*
 
 # Publications
 
-**2019**
-
-* Rodriguez, J. C., Merino, G. A., Llera A. S., Fernández, E. A.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[Massive integrative gene set analysis enables functional characterization of breast cancer subtypes.](https://doi.org/10.1016/j.jbi.2019.103157) **(Journal)**
-
 **2018**
 
 * Rodriguez, J. C., Vargas Rojas C., Fernández, E. A.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[ShinyWYSIWYG: a Shiny What You See Is What You Get editor.](https://github.com/LatinR/presentaciones-LatinR2018#shinywysiwyg-a-shiny-what-you-see-is-what-you-get-editor-pdf-presentaci%C3%B3n--shiny-app--repositorio)
+ShinyWYSIWYG: a Shiny What You See Is What You Get editor.
 
 <!-- At the Latinamerican Conference About the Use of R in R&D. Buenos Aires. -->
 
@@ -201,7 +188,7 @@ of Gene Sets.
 * Rodriguez, J. C., González, G., Fresno, C., & Fernández, E. A.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[Integrative Functional Analysis Improves Information Retrieval in Breast Cancer.](https://doi.org/10.1007/978-3-319-25751-8_6)
+Integrative Functional Analysis Improves Information Retrieval in Breast Cancer.
 
 <!-- In Iberoamerican Congress on Pattern Recognition (pp. 43-50). Springer International -->
 <!-- Publishing. -->
@@ -219,14 +206,14 @@ DNA Microarrays Quality Control by ANOVA-PCA / PLS decomposition.
 * At the [Ana Conesa Lab](http://conesalab.org/).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[University of Florida](https://www.ufl.edu/), USA *(October 2018 - December 2018)*
+[University of Florida](http://www.ufl.edu/), USA *(October 2018 - December 2018)*
 
 * At the [Genomics of Gene Expression](http://conesalab.org/) group.
 
 <!-- Developing a European American NGS analysis Network. -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[Centro de Investigación Príncipe Felipe](http://www.cipf.es/en/), Valencia, Spain *(October 2017 - December 2017)*
+[Centro de Investigación Prícipe Felipe](www.cipf.es/en/), Valencia, Spain *(October 2017 - December 2017)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 DEANN project (Marie Curie IRSES, European Commission, 2013)

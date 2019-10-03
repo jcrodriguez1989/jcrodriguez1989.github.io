@@ -11,3 +11,5 @@ RUN apt --assume-yes install libcurl4-openssl-dev libssl-dev libxml2-dev
 RUN R -e "\
     install.packages(c('remotes', 'vitae')); \
     remotes::install_github('hadley/emo');"
+
+ENTRYPOINT ["R", "/home/personal_website"] 

@@ -39,7 +39,7 @@ library(vitae)
 <!-- analysis at the level of gene isomorphisms". -->
 
 &nbsp;&nbsp; 
-[FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2014 - 2019 **est.**)*
+[FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2014 - 2019)*
 
 * MSc in Applied Statistics
 
@@ -170,6 +170,13 @@ Government of Córdoba, Argentina *(2007 - 2011)*
 # Publications
 
 **2019**
+
+* Rodriguez, J. C., Luraschi J.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Auto-Keras: An R easily accessible deep learning library.
+
+<!-- At the Latinamerican Conference About the Use of R in R&D. Santiago, Chile. -->
 
 * Rodriguez, J. C., Merino, G. A., Llera A. S., Fernández, E. A.
 

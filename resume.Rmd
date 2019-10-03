@@ -140,6 +140,23 @@ Government of Córdoba, Argentina *(2007 - 2011)*
 
 # Publications
 
+**2019**
+
+* Rodriguez, J. C., Luraschi J.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Auto-Keras: An R easily accessible deep learning library.
+
+<!-- At the Latinamerican Conference About the Use of R in R&D. Santiago, Chile. -->
+
+* Rodriguez, J. C., Merino, G. A., Llera A. S., Fernández, E. A.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[Massive integrative gene set analysis enables functional characterization of ](https://doi.org/10.1016/j.jbi.2019.103157)
+
+&nbsp;&nbsp; 
+[breast cancer subtypes.](https://doi.org/10.1016/j.jbi.2019.103157) **(Journal)**
+
 **2018**
 
 * Rodriguez, J. C., Vargas Rojas C., Fernández, E. A.

@@ -14,10 +14,11 @@ cd jcrodriguez1989.github.io/
 docker build -t personal_website .
 ```
 
-Run the image:
+Run the image, and start R:
 
 ``` bash
 docker run --rm -ti personal_website
+R
 ```
 
 Build both website and resume:

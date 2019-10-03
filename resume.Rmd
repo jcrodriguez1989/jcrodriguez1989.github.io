@@ -154,7 +154,7 @@ Auto-Keras: An R easily accessible deep learning library.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [Massive integrative gene set analysis enables functional characterization of ](https://doi.org/10.1016/j.jbi.2019.103157)
 
-&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [breast cancer subtypes.](https://doi.org/10.1016/j.jbi.2019.103157) **(Journal)**
 
 **2018**

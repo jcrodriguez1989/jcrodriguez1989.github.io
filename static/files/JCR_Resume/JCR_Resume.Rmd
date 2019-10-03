@@ -173,7 +173,7 @@ Government of Córdoba, Argentina *(2007 - 2011)*
 
 * Rodriguez, J. C., Luraschi J.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp; 
 Auto-Keras: An R easily accessible deep learning library.
 
 <!-- At the Latinamerican Conference About the Use of R in R&D. Santiago, Chile. -->
@@ -201,10 +201,10 @@ ShinyWYSIWYG: a Shiny What You See Is What You Get editor.
 
 &nbsp;&nbsp; 
 Effects of RNA-Seq data gene analysis methods, on the 
-over-representation analysis of gene 
+over-representation analysis of
 
 &nbsp;&nbsp; 
-sets.
+gene sets.
 
 <!-- At the Argentine Congress of Bioengineering. Córdoba. -->
 

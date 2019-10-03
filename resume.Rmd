@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: "[<i class='fas fa-download'></i>](static/files/JCR_Resume/JCR_Resume.pdf) Resume"
 output:
   html_document: 
     toc: true

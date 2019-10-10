@@ -113,21 +113,21 @@ C, Perl, Python, Bash
 
 **Bioconductor**
 
-* [MIGSA](https://bioconductor.org/packages/MIGSA/): Massive and Integrative Gene Set Analysis
+* [MIGSA](https://bioconductor.org/packages/MIGSA/): Massive and Integrative Gene Set Analysis.
 
 **CRAN**
 
-* [rflights](https://CRAN.R-project.org/package=rflights): Query Plane Tickets using the 'Kiwi' API
+* [rflights](https://cran.r-project.org/package=rflights): Query plane tickets using the '[Kiwi](https://www.kiwi.com)' API.
 
 **GitHub**
 
-* [autokeras](https://github.com/jcrodriguez1989/autokeras): R interface to Auto-Keras
+* [autokeras](https://github.com/jcrodriguez1989/autokeras): R interface to Auto-Keras.
 
-* [KerasModelCreator](https://github.com/jcrodriguez1989/KerasModelCreator): Visually design Keras models for R language
+* [KerasModelCreator](https://github.com/jcrodriguez1989/KerasModelCreator): Visually design Keras models for R language.
 
-* [shinyWYSIWYG](https://github.com/jcrodriguez1989/shinyWYSIWYG): Shiny What You See Is What You Get (WYSIWYG) editor
+* [shinyWYSIWYG](https://github.com/jcrodriguez1989/shinyWYSIWYG): Shiny What You See Is What You Get (WYSIWYG) editor.
 
-* [shinyParallel](https://github.com/jcrodriguez1989/shinyParallel): Run Shiny applications in a multi-session mode
+* [shinyParallel](https://github.com/jcrodriguez1989/shinyParallel): Run Shiny applications in a multi-session mode.
 
 # Awards and Distinctions
 

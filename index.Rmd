@@ -6,8 +6,54 @@ library("emo")
 ```
 
 ```{r echo=FALSE}
-ctries <- c("🇦🇷", "🇧🇷", "🇵🇾", "🇨🇱", "🇺🇾", "🇧🇴", "🇵🇪", "🇪🇨", "🇨🇴", "🇵🇦", "🇨🇷", "🇳🇮", "🇭🇳", "🇬🇹", "🇧🇿", "🇲🇽", "🇩🇪", "🇪🇸", "🇦🇩", "🇲🇦", "🇮🇪", "🇬🇪", "🇩🇰", "🇸🇪", "🇳🇱", "🇧🇪", "🇫🇷", "🇮🇹", "🇻🇦", "🇸🇮", "🇭🇷", "🇦🇹", "🇨🇿", "🇸🇰", "🇺🇸", "🇨🇺")
+ctries <- c(
+  ji("Argentina"),
+  ji("brazil"),
+  ji("Paraguay"),
+  ji("Chile"),
+  ji("Uruguay"),
+  ji("Ecuador"),
+  ji("bolivia"),
+  ji("Peru"),
+  ji("Colombia"),
+  ji("Panama"),
+  ji("Costa_Rica"),
+  ji("Nicaragua"),
+  ji("Honduras"),
+  ji("Guatemala"),
+  ji("belize"),
+  ji("Mexico"),
+  ji("Germany"),
+  ji("Spain"),
+  ji("Andorra"),
+  ji("Morocco"),
+  ji("Ireland"),
+  ji("Georgia"),
+  ji("Denmark"),
+  ji("Sweden"),
+  ji("Netherlands"),
+  ji("belgium"),
+  ji("France"),
+  ji("Italy"),
+  ji("Vatican_City"),
+  ji("Slovenia"),
+  ji("Croatia"),
+  ji("Austria"),
+  ji("Czechia"),
+  ji("Slovakia"),
+  ji("us"),
+  ji("Cuba"),
+  ji("thailand"),
+  ji("Laos"),
+  ji("Vietnam"),
+  ji("Cambodia"),
+  ji("Indonesia"),
+  ji("Singapore"),
+  ji("Malaysia"),
+  ji("United_Arab_Emirates")
+)
 ```
+
 ```{r, out.width='15%', fig.align='center', echo=FALSE, border.radius='50%'}
 # knitr::include_graphics(sample(dir("images", full.names = TRUE),1))
 # knitr::include_graphics("images/JuanCruzRodriguez.jpg")

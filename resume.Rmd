@@ -8,7 +8,10 @@ output:
 
 # Education
 
-* PhD in Computer Science
+* PhD in Computer Science:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+["Análisis e integración de información de datos biológicos mediante análisis funcional"](https://jcrodriguez1989.github.io/tesis_doctoral/)
 
 <!-- Research topic: "Statistical/computational methodologies for functional  -->
 <!-- analysis at the level of gene isomorphisms". -->
@@ -19,7 +22,7 @@ output:
 * MSc in Applied Statistics
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[FCA](http://www.agro.unc.edu.ar/), [FCE](http://www.eco.unc.edu.ar/) and [FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2014 - 2019 **est.**)*
+[FCA](http://www.agro.unc.edu.ar/), [FCE](http://www.eco.unc.edu.ar/) and [FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2014 - 2020 **est.**)*
 
 * MSc in Computer Science
 

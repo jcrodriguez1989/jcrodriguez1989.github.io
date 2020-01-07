@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -237,6 +236,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -265,6 +265,12 @@ $(document).ready(function () {
 }
 }
 
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
 
 .toc-content {
   padding-left: 30px;
@@ -386,8 +392,9 @@ div.tocify {
 <div id="education" class="section level1">
 <h1>Education</h1>
 <ul>
-<li>PhD in Computer Science</li>
+<li>PhD in Computer Science:</li>
 </ul>
+<p>        <a href="https://jcrodriguez1989.github.io/tesis_doctoral/">“Análisis e integración de información de datos biológicos mediante análisis funcional”</a></p>
 <!-- Research topic: "Statistical/computational methodologies for functional  -->
 <!-- analysis at the level of gene isomorphisms". -->
 <p>        <a href="http://www.famaf.unc.edu.ar/">FAMAF</a> - <a href="https://www.unc.edu.ar/english/">National University of Córdoba</a> <em>(2014 - 2019)</em></p>

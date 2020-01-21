@@ -112,26 +112,27 @@ HPC Group at [Intel Corporation](https://www.intel.com) *(June 2012 - June 2013)
 &nbsp;&nbsp; 
 C, Perl, Python, Bash
 
-
 # R Packages
 
 **Bioconductor**
 
-* [MIGSA](https://bioconductor.org/packages/MIGSA/): Massive and Integrative Gene Set Analysis.
+* [MIGSA](http://bioconductor.org/packages/MIGSA/): Massive and Integrative Gene Set Analysis.
 
 **CRAN**
 
-* [rflights](https://cran.r-project.org/package=rflights): Query plane tickets using the '[Kiwi](https://www.kiwi.com)' API.
+* [rflights](https://cran.r-project.org/package=rflights): Query Plane Tickets using the '[Kiwi](https://www.kiwi.com)' API.
 
 **GitHub**
 
-* [autokeras](https://github.com/jcrodriguez1989/autokeras): R interface to Auto-Keras.
+* [autokeras](https://github.com/jcrodriguez1989/autokeras): R Interface to ['AutoKeras'](https://autokeras.com/).
 
-* [KerasModelCreator](https://github.com/jcrodriguez1989/KerasModelCreator): Visually design Keras models for R language.
+* [shinyParallel](https://github.com/jcrodriguez1989/shinyParallel): Run Shiny Applications in a Multi-Session Mode.
+
+* [rco](https://github.com/jcrodriguez1989/rco): The R Code Optimizer.
 
 * [shinyWYSIWYG](https://github.com/jcrodriguez1989/shinyWYSIWYG): Shiny What You See Is What You Get (WYSIWYG) editor.
 
-* [shinyParallel](https://github.com/jcrodriguez1989/shinyParallel): Run Shiny applications in a multi-session mode.
+* [interactingan](https://github.com/jcrodriguez1989/interactingan): Interactive Presentation Ninja.
 
 # Awards and Distinctions
 
@@ -151,6 +152,11 @@ Diploma with Special Mention
 
 
 # Scholarships
+
+* 2019 Google Summer of Code student w/R-project
+
+&nbsp;&nbsp; 
+Was awarded a [GSoC project](https://summerofcode.withgoogle.com/archive/2019/projects/6300906386096128/) to develop [the R Code Optimizer, `rco`](https://jcrodriguez1989.github.io/rco/), R package.
 
 * [Fulbright](https://www.cies.org/) exchange visiting scholarship
 

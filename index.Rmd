@@ -1,4 +1,5 @@
 ---
+pagetitle: Juan Cruz Rodriguez
 ---
 
 ```{r echo=FALSE}

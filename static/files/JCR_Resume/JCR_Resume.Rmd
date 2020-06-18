@@ -158,6 +158,18 @@ Diploma with Special Mention
 [FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2011)*
 
 
+# Mentoring
+
+* [2020 Google Summer of Code mentor w/R-project](https://summerofcode.withgoogle.com/projects/#6187591176552448/)
+
+&nbsp;&nbsp; 
+Mentoring of student Rahul Saxena to work on [the `rco` R package](https://jcrodriguez1989.github.io/rco/).
+
+* 2019 Google Code-in mentor w/R-project
+
+&nbsp;&nbsp; 
+Mentored pre-university students with [short tasks](https://codein.withgoogle.com/archive/2019/organization/5963835628847104/task/) related to [the `rco` R package](https://jcrodriguez1989.github.io/rco/).
+
 # Scholarships
 
 * 2019 Google Summer of Code student w/R-project
@@ -191,7 +203,7 @@ Government of Córdoba, Argentina *(2007 - 2011)*
 * Rodriguez, J. C., Luraschi J.
 
 &nbsp;&nbsp; 
-Auto-Keras: An R easily accessible deep learning library.
+[Auto-Keras: An R easily accessible deep learning library](https://github.com/LatinR/presentaciones-LatinR2019#auto-keras-an-r-easily-accessible-deep-learning-library).
 
 <!-- At the Latinamerican Conference About the Use of R in R&D. Santiago, Chile. -->
 
@@ -208,7 +220,7 @@ Auto-Keras: An R easily accessible deep learning library.
 * Rodriguez, J. C., Vargas Rojas C., Fernández, E. A.
 
 &nbsp;&nbsp; 
-ShinyWYSIWYG: a Shiny What You See Is What You Get editor.
+[ShinyWYSIWYG: a Shiny What You See Is What You Get editor](https://github.com/LatinR/presentaciones-LatinR2018#shinywysiwyg-a-shiny-what-you-see-is-what-you-get-editor-pdf-presentaci%C3%B3n--shiny-app--repositorio).
 
 <!-- At the Latinamerican Conference About the Use of R in R&D. Buenos Aires. -->
 
@@ -237,11 +249,11 @@ gene sets.
 * Rodriguez, J. C., Merino, G. A., Prato L., Llera A. S., Fernández, E. A.
 
 &nbsp;&nbsp; 
-The impact of RNA-Seq differential expression algorithms on 
-Over-Representation Analysis
+[The impact of RNA-Seq differential expression algorithms on ](https://www.researchgate.net/publication/311946206_The_impact_of_RNA-Seq_differential_expression_algorithms_on_Over_-Representation_Analysis_of_Gene_Sets)
+[Over-Representation Analysis]((https://www.researchgate.net/publication/311946206_The_impact_of_RNA-Seq_differential_expression_algorithms_on_Over_-Representation_Analysis_of_Gene_Sets))
 
 &nbsp;&nbsp; 
-of Gene Sets.
+[of Gene Sets](https://www.researchgate.net/publication/311946206_The_impact_of_RNA-Seq_differential_expression_algorithms_on_Over_-Representation_Analysis_of_Gene_Sets).
 
 <!-- In International Society for Computational Biology Latin America Bioinformatics  -->
 <!-- Conference. Buenos Aires. -->
@@ -251,7 +263,7 @@ of Gene Sets.
 * Rodriguez, J. C., González, G., Fresno, C., & Fernández, E. A.
 
 &nbsp;&nbsp; 
-Integrative Functional Analysis Improves Information Retrieval in Breast Cancer.
+[Integrative Functional Analysis Improves Information Retrieval in Breast Cancer](https://doi.org/10.1007/978-3-319-25751-8_6).
 
 <!-- In Iberoamerican Congress on Pattern Recognition (pp. 43-50). Springer International -->
 <!-- Publishing. -->
@@ -259,7 +271,7 @@ Integrative Functional Analysis Improves Information Retrieval in Breast Cancer.
 * Fresno C., González G. A., Merino G. A., Rodriguez J. C., Balzarini M., Fernández E. A.
 
 &nbsp;&nbsp; 
-DNA Microarrays Quality Control by ANOVA-PCA / PLS decomposition.
+[DNA Microarrays Quality Control by ANOVA-PCA / PLS decomposition](https://fcf.unse.edu.ar/eventos/gab2014/contenido/pdf/DE01.pdf).
 
 <!-- In XIX Scientific Meeting of the Biometry Argentine Group. -->
 

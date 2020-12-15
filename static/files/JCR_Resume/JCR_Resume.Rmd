@@ -96,10 +96,15 @@ Algorithms and Data Structures II & Databases
 
 # Industry Experience
 
-* Data Scientist
+* The Data Person
 
 &nbsp;&nbsp; 
-[Winclap](https://www.winclap.com/) **(February 2020 - Present)**
+[Good Tree](https://www.getgoodtree.com/) *(October 2020 - Present)*
+
+* Lead Data Scientist
+
+&nbsp;&nbsp; 
+[Winclap](https://www.winclap.com/) *(February 2020 - November 2020)*
 
 * Software Engineer
 

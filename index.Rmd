@@ -19,11 +19,11 @@ document.getElementById('id').style.borderRadius = '50%';
 
 Juan C. Rodriguez[^its_me] holds an MSc degree in applied statistics[^almost_msc] and an MSc and Ph.D. in Computer Science. His doctoral research consisted of applying computational-statistical techniques to the detection of deregulated biological functions in cancer, with an emphasis on breast cancer. He certainly enjoys applying his knowledge in different areas of statistics, computing, and where he finds it can be useful.
 
-After completing his doctorate studies, he focused his knowledge on applying data science techniques to marketing. Among his greatest contributions, together with his team, they successfully developed a budget allocation tool for advertising sources. Other tasks related to marketing were automatic churn detection, LTV calculation, customer segmentation, among others.
+After completing his doctorate studies, he focused his knowledge on applying data science techniques to marketing research. Among his greatest contributions, together with his team, they successfully developed a budget allocation tool for advertising sources. Other tasks related to marketing were automatic churn detection, LTV calculation, customer segmentation, among others.
 
-Finally, he found the area of research and professional development, where he wants to fulfill his potential, legal cannabis. Where he is an activist to achieve legalization in his country 🇦🇷 and the whole world. This plant, which for political reasons, its medicinal potential could never be researched, undoubtedly presents an incomparable medical utility. Juan Cruz enjoys spending his spare time in cannabis-related research.
+Finally, he found the area of research and professional development, where he wants to fulfill his potential, legal cannabis. Where he is an activist to achieve legalization in his country 🇦🇷 and worldwide. This plant, which for political reasons, its medicinal potential could never be researched, undoubtedly presents an incomparable medical utility. Juan Cruz enjoys spending his spare time in cannabis-related data research.
 
-Proudly Latino. Personally, he enjoys playing soccer, walking his dog Whisky🐶, drinking mate🧉, and of course, getting to know the entire world.
+Proudly Latino. Personally, he enjoys playing soccer, walking his dog Whisky🐶, drinking mate🧉, and of course, getting to know the world.
 
 [^its_me]: Well, it's me who's writing 💁‍♂️.
 [^almost_msc]: Not 100%, hopefully I will defend my thesis this year 😅.

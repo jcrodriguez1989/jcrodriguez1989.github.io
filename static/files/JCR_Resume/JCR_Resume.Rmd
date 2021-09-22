@@ -66,7 +66,7 @@ library(vitae)
 * Teaching Assistant
 
 &nbsp;&nbsp; 
-[FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) **(May 2014 - Present)**
+[FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(May 2014 - March 2021)*
 
 &nbsp;&nbsp; 
 Algorithms and Data Structures
@@ -96,10 +96,10 @@ Algorithms and Data Structures II & Databases
 
 # Industry Experience
 
-* The Data Person
+* Data Science Advisor
 
 &nbsp;&nbsp; 
-[Good Tree](https://www.getgoodtree.com/) *(October 2020 - Present)*
+[Good Tree](https://www.getgoodtree.com/) **_(October 2020 - Present)_**
 
 * Lead Data Scientist
 
@@ -111,16 +111,10 @@ Algorithms and Data Structures II & Databases
 &nbsp;&nbsp; 
 [Applied Research (INVAP](http://www.invap.com.ar/en/); *June 2013 - October 2013*)
 
-&nbsp;&nbsp; 
-C ++ / Qt
-
 * QA Engineer
 
 &nbsp;&nbsp; 
 HPC Group at [Intel Corporation](https://www.intel.com) *(June 2012 - June 2013)*
-
-&nbsp;&nbsp; 
-C, Perl, Python, Bash
 
 # R Packages
 

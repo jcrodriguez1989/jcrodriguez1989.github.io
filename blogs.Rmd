@@ -1,0 +1,19 @@
+---
+title: "Blogs"
+output:
+  html_document: 
+    toc: false
+    toc_float: true
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+**April 2021** _[Data Science Tips for Improving Your Cannabis Yields — Part I](https://medium.com/cannabis-explorations/data-science-tips-for-improving-your-cannabis-yields-part-i-62e92a3cf618)_
+
+A data science learning of how to improve the yields of cannabis crops.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+**January 2021** _[Can Artificial Intelligence Dream of Cannabis?](https://medium.com/cannabis-explorations/can-artificial-intelligence-dream-of-cannabis-3ed9b34948bf)_
+
+Remember [DeepDream](https://en.wikipedia.org/wiki/DeepDream)? The Deep Neural Network that transformed pictures by adding psychedelic "dream" effects. Now, it dreams of **Cannabis**!

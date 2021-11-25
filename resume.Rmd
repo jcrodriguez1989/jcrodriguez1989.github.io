@@ -35,6 +35,29 @@ output:
 [FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2007 - 2009)*
 
 
+# Industry Experience
+
+* Head of Data / Data Science
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[Good Tree](https://www.getgoodtree.com/) **_(October 2020 - Present)_**
+
+* Lead Data Scientist
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[Winclap](https://www.winclap.com/) *(February 2020 - November 2020)*
+
+* Software Engineer
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[Applied Research (INVAP](http://www.invap.com.ar/en/); *June 2013 - October 2013)*
+
+* QA Engineer
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+HPC Group at [Intel Corporation](https://www.intel.com) *(June 2012 - June 2013)*
+
+
 # Teaching Activities
 
 * Teaching Assistant
@@ -66,29 +89,6 @@ Programming in Python
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 Algorithms and Data Structures II & Databases
-
-
-# Industry Experience
-
-* Data Science Advisor
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[Good Tree](https://www.getgoodtree.com/) **_(October 2020 - Present)_**
-
-* Lead Data Scientist
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[Winclap](https://www.winclap.com/) *(February 2020 - November 2020)*
-
-* Software Engineer
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[Applied Research (INVAP](http://www.invap.com.ar/en/); *June 2013 - October 2013)*
-
-* QA Engineer
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-HPC Group at [Intel Corporation](https://www.intel.com) *(June 2012 - June 2013)*
 
 
 # R Packages
@@ -170,6 +170,16 @@ Government of Córdoba, Argentina *(2007 - 2011)*
 
 
 # Publications
+
+**2021**
+
+* Rodriguez, J. C.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[The `{botmaker}`: automatically build R-based bots, the result of creating the \@RStatsJobsBot Twitter bot](https://github.com/LatinR/presentaciones-LatinR2021#desarrollo-de-paquetes---sesion-en-vivo).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+`r emo::ji("movie")` [Video](https://youtu.be/k7KL_YbtKpw)
 
 **2019**
 

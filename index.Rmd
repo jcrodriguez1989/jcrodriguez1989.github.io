@@ -2,8 +2,6 @@
 pagetitle: Juan Cruz Rodriguez
 ---
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 <div style="text-align: center;">
 
 <img src="images/JuanCruzRodriguez.jpg" alt="Juan Cruz Rodriguez" style="width:15%; border-radius:50%;">

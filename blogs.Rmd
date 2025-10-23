@@ -1,5 +1,5 @@
 ---
-title: "Blogs"
+title: "<br/><br/>Blogs"
 output:
   html_document: 
     toc: false

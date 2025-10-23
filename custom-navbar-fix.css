@@ -21,14 +21,20 @@ body {
   border-radius: 1px;
 }
 
-/* Force collapse functionality */
-.navbar-collapse {
-  display: none;
-}
+/* Bootstrap 3 collapse functionality */
+@media (max-width: 767px) {
+  .navbar-collapse {
+    max-height: none !important;
+    overflow: visible !important;
+  }
 
-.navbar-collapse.in,
-.navbar-collapse.collapse.show {
-  display: block;
+  .navbar-collapse.in {
+    display: block !important;
+  }
+
+  .navbar-collapse.collapse {
+    display: none !important;
+  }
 }
 
 /* Mobile navbar adjustments */

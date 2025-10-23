@@ -8,6 +8,12 @@ output:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+**January 2025** _[R to Production](https://rtoprod.com/)_
+
+A series of blog posts dedicated to bridging the gap between R development and production. We provide expert insights, tools, and techniques for deploying robust data pipelines, APIs, Shiny apps, and machine learning models at scale.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 **April 2021** _[Data Science Tips for Improving Your Cannabis Yields — Part I](https://medium.com/cannabis-explorations/data-science-tips-for-improving-your-cannabis-yields-part-i-62e92a3cf618)_
 
 A data science learning of how to improve the yields of cannabis crops.

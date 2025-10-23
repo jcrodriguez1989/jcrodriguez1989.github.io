@@ -2,30 +2,24 @@
 pagetitle: Juan Cruz Rodriguez
 ---
 
-```{r, out.width='15%', fig.align='center', echo=FALSE, border.radius='50%'}
-# knitr::include_graphics(sample(dir("images", full.names = TRUE),1))
-# knitr::include_graphics("images/JuanCruzRodriguez.jpg")
-```
+<div style="text-align: center;">
 
-<center>
-</br>
+<img src="images/JuanCruzRodriguez.jpg" alt="Juan Cruz Rodriguez" style="width:15%; border-radius:50%;">
 
-<img src="images/JuanCruzRodriguez.jpg" id="id" width="15%">
-<script>
-document.getElementById('id').style.borderRadius = '50%';
-</script>
+<br/>
 
-#### Juan Cruz Rodriguez
+### Cancu (Juan Cruz Rodriguez)
 
-Juan C. Rodriguez[^its_me] holds an MSc degree in applied statistics[^almost_msc] and an MSc and Ph.D. in Computer Science. His doctoral research consisted of applying computational-statistical techniques to the detection of deregulated biological functions in cancer, with an emphasis on breast cancer. He certainly enjoys applying his knowledge in different areas of statistics, computing, and where he finds it can be useful.
+**Software Engineer | Data Scientist | SaaS Builder**
 
-After completing his doctorate studies, he focused his knowledge on applying data science techniques to marketing research. Among his greatest contributions, together with his team, they successfully developed a [budget allocation tool for advertising sources](https://www.youtube.com/watch?v=jpPVttmNJh8). Other tasks related to marketing were automatic churn detection, customer lifetime value calculation, customer segmentation, among others.
+<br/>
 
-Finally, he found the area of research and professional development, where he wants to fulfill his potential, **legal cannabis**. Where he is an activist to achieve legalization in his country 🇦🇷 and worldwide. This plant, which for political reasons, its medicinal potential could never be researched, undoubtedly presents an incomparable medical utility. Juan Cruz enjoys spending his spare time in cannabis-related data research.
+I am a PhD-level Data Scientist and Software Engineer passionate about building and scaling data-intensive SaaS products. With a unique background that blends deep technical expertise and years of marketing data science experience, I specialize in transforming complex business challenges into innovative, scalable software solutions.
 
-Proudly Latino. Personally, he enjoys playing soccer, walking his dog Whisky🐶, drinking mate🧉, and of course, getting to know the world.
+My experience ranges from academic research to leading data science and engineering teams in fast-paced startup environments. I have a proven track record of developing impactful products by applying a wide range of techniques -from traditional Machine Learning to Large Language Models- to solve complex marketing and software engineering challenges. Key projects include a successful [advertising budget allocation tool](https://www.youtube.com/watch?v=jpPVttmNJh8) that optimized marketing spend, as well as production-grade models for churn prediction and customer lifetime value.
 
-[^its_me]: Well, it's me who's writing 💁‍♂️.
-[^almost_msc]: Not 100%, hopefully I will defend my thesis this year 😅.
+I am a strong advocate for open-source and have developed numerous R packages for CRAN and Bioconductor, including tools for AI, code optimization, and interactive applications. You can find my work on [GitHub](https://github.com/jcrodriguez1989).
 
-</center>
+Recently, I started the [_R to Production_](https://rtoprod.com/) blog series, where I share insights on deploying robust data pipelines, APIs, and machine learning models at scale.
+
+</div>

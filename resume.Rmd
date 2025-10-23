@@ -1,5 +1,5 @@
 ---
-title: "[<i class='fas fa-download'></i>](static/files/JCR_Resume/JCR_Resume.pdf) Resume"
+title: ""
 output:
   html_document: 
     toc: true
@@ -8,7 +8,7 @@ output:
 
 # Education
 
-* PhD in Computer Science:
+* PhD in Computer Science
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 ["Análisis e integración de información de datos biológicos mediante análisis funcional"](https://jcrodriguez1989.github.io/tesis_doctoral/)
@@ -17,30 +17,35 @@ output:
 <!-- analysis at the level of gene isomorphisms". -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2014 - 2019)*
+[FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2014 - 2019)*
 
 * MSc in Applied Statistics
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[FCA](http://www.agro.unc.edu.ar/), [FCE](http://www.eco.unc.edu.ar/) and [FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2014 - )*
+[FCA](https://www.agro.unc.edu.ar/), [FCE](https://www.eco.unc.edu.ar/) and [FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2014 - )*
 
 * MSc in Computer Science
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2007 - 2012)*
+[FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2007 - 2012)*
 
 * BSc in Computer Science
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2007 - 2009)*
+[FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2007 - 2009)*
 
 
 # Industry Experience
 
+* Principal Software Engineer
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[Happy Cabbage](https://www.happycabbage.io/) *_(November 2021 - January 2025)_*
+
 * Head of Data / Data Science
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[Good Tree](https://www.getgoodtree.com/) **_(October 2020 - Present)_**
+[Good Tree](https://www.getgoodtree.com/) *_(October 2020 - November 2021)_*
 
 * Lead Data Scientist
 
@@ -50,7 +55,7 @@ output:
 * Software Engineer
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[Applied Research (INVAP](http://www.invap.com.ar/en/); *June 2013 - October 2013)*
+[Applied Research (INVAP](https://www.invap.com.ar/en/); *June 2013 - October 2013)*
 
 * QA Engineer
 
@@ -63,7 +68,7 @@ HPC Group at [Intel Corporation](https://www.intel.com) *(June 2012 - June 2013)
 * Teaching Assistant
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(May 2014 - March 2021)*
+[FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(May 2014 - March 2021)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 Algorithms and Data Structures
@@ -85,7 +90,7 @@ Programming in Python
 * Student Assistant
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2011 - 2012)*
+[FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2011 - 2012)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 Algorithms and Data Structures II & Databases
@@ -95,25 +100,33 @@ Algorithms and Data Structures II & Databases
 
 **CRAN**
 
+* [myownrobs](https://cran.r-project.org/package=myownrobs): AI coding agent for RStudio.
+
+* [chatgpt](https://cran.r-project.org/package=chatgpt): Interface to 'ChatGPT' from R.
+
 * [rco](https://cran.r-project.org/package=rco): The R Code Optimizer.
 
 * [autokeras](https://cran.r-project.org/package=autokeras): R Interface to ['AutoKeras'](https://autokeras.com/).
 
-* [rflights](https://cran.r-project.org/package=rflights): Query Plane Tickets using the '[Kiwi](https://www.kiwi.com)' API.
+* [malvinas](https://cran.r-project.org/package=malvinas): Datasets related to Argentine war veterans in the Islas Malvinas.
 
 **Bioconductor**
 
-* [MIGSA](http://bioconductor.org/packages/MIGSA/): Massive and Integrative Gene Set Analysis.
+* [MIGSA](https://bioconductor.org/packages/MIGSA/): Massive and Integrative Gene Set Analysis.
 
 **GitHub**
 
 * [shinyParallel](https://github.com/jcrodriguez1989/shinyParallel): Run Shiny Applications in a Multi-Session Mode.
 
+* [renv-installer](https://github.com/jcrodriguez1989/renv-installer): Simple R version management.
+
+* [heyshiny](https://github.com/jcrodriguez1989/heyshiny): New `shiny` input that translates audio to text.
+
 * [shinyWYSIWYG](https://github.com/jcrodriguez1989/shinyWYSIWYG): Shiny What You See Is What You Get (WYSIWYG) editor.
 
 * [interactingan](https://github.com/jcrodriguez1989/interactingan): Interactive Presentation Ninja.
 
-* [heyshiny](https://github.com/jcrodriguez1989/heyshiny): New `shiny` input that translates audio to text.
+* [rflights](https://github.com/jcrodriguez1989/rflights): Query Plane Tickets using the '[Kiwi](https://www.kiwi.com)' API.
 
 # Awards and Distinctions
 
@@ -124,12 +137,12 @@ Diploma with Special Mention
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [National University of Córdoba](https://www.unc.edu.ar/english/) to the second best average of 
-2011 graduates
+2011 graduates.
 
 * Substitute for First Escort
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[FAMAF](http://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2011)*
+[FAMAF](https://www.famaf.unc.edu.ar/) - [National University of Córdoba](https://www.unc.edu.ar/english/) *(2011)*
 
 # Mentoring
 
@@ -153,7 +166,7 @@ Was awarded a [GSoC project](https://summerofcode.withgoogle.com/archive/2019/pr
 * [Fulbright](https://www.cies.org/) exchange visiting scholarship
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-At the [University of Florida](http://www.ufl.edu/) *(2018)*
+At the [University of Florida](https://www.ufl.edu/) *(2018)*
 
 * Doctoral Scholarship
 
@@ -171,41 +184,12 @@ Government of Córdoba, Argentina *(2007 - 2011)*
 
 # Publications
 
-**2021**
-
-* Rodriguez, J. C.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[The `{botmaker}`: automatically build R-based bots, the result of creating the \@RStatsJobsBot Twitter bot](https://github.com/LatinR/presentaciones-LatinR2021#desarrollo-de-paquetes---sesion-en-vivo).
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-`r emo::ji("movie")` [Video](https://youtu.be/k7KL_YbtKpw)
-
 **2019**
-
-* Rodriguez, J. C., Luraschi J.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[Auto-Keras: An R easily accessible deep learning library](https://github.com/LatinR/presentaciones-LatinR2019#auto-keras-an-r-easily-accessible-deep-learning-library).
-
-<!-- At the Latinamerican Conference About the Use of R in R&D. Santiago, Chile. -->
 
 * Rodriguez, J. C., Merino, G. A., Llera A. S., Fernández, E. A.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[Massive integrative gene set analysis enables functional characterization of ](https://doi.org/10.1016/j.jbi.2019.103157)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[breast cancer subtypes.](https://doi.org/10.1016/j.jbi.2019.103157) **(Journal)**
-
-**2018**
-
-* Rodriguez, J. C., Vargas Rojas C., Fernández, E. A.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[ShinyWYSIWYG: a Shiny What You See Is What You Get editor](https://github.com/LatinR/presentaciones-LatinR2018#shinywysiwyg-a-shiny-what-you-see-is-what-you-get-editor-pdf-presentaci%C3%B3n--shiny-app--repositorio).
-
-<!-- At the Latinamerican Conference About the Use of R in R&D. Buenos Aires. -->
+[Massive integrative gene set analysis enables functional characterization of breast cancer subtypes.](https://doi.org/10.1016/j.jbi.2019.103157) **(Journal)**
 
 **2017**
 
@@ -232,11 +216,7 @@ sets.
 * Rodriguez, J. C., Merino, G. A., Prato L., Llera A. S., Fernández, E. A.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[The impact of RNA-Seq differential expression algorithms on ](https://www.researchgate.net/publication/311946206_The_impact_of_RNA-Seq_differential_expression_algorithms_on_Over_-Representation_Analysis_of_Gene_Sets)
-[Over-Representation Analysis](https://www.researchgate.net/publication/311946206_The_impact_of_RNA-Seq_differential_expression_algorithms_on_Over_-Representation_Analysis_of_Gene_Sets)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[of Gene Sets](https://www.researchgate.net/publication/311946206_The_impact_of_RNA-Seq_differential_expression_algorithms_on_Over_-Representation_Analysis_of_Gene_Sets).
+[The impact of RNA-Seq differential expression algorithms on Over-Representation Analysis of Gene Sets](https://www.researchgate.net/publication/311946206_The_impact_of_RNA-Seq_differential_expression_algorithms_on_Over_-Representation_Analysis_of_Gene_Sets).
 
 <!-- In International Society for Computational Biology Latin America Bioinformatics  -->
 <!-- Conference. Buenos Aires. -->
@@ -261,17 +241,17 @@ sets.
 
 # Research Exchange
 
-* At the [Ana Conesa Lab](http://conesalab.org/).
+* At the [Ana Conesa Lab](https://conesalab.org/).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[University of Florida](http://www.ufl.edu/), USA *(October 2018 - December 2018)*
+[University of Florida](https://www.ufl.edu/), USA *(October 2018 - December 2018)*
 
-* At the [Genomics of Gene Expression](http://conesalab.org/) group.
+* At the [Genomics of Gene Expression](https://conesalab.org/) group.
 
 <!-- Developing a European American NGS analysis Network. -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[Centro de Investigación Prícipe Felipe](www.cipf.es/en/), Valencia, Spain *(October 2017 - December 2017)*
+[Centro de Investigación Prícipe Felipe](https://www.cipf.es/), Valencia, Spain *(October 2017 - December 2017)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 DEANN project (Marie Curie IRSES, European Commission, 2013)

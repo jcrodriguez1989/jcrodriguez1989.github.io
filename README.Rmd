@@ -30,5 +30,4 @@ Build both website and resume:
 
 ```{r eval = FALSE}
 rmarkdown::render_site(encoding = "UTF-8")
-rmarkdown::render("static/files/JCR_Resume/JCR_Resume.Rmd")
 ```

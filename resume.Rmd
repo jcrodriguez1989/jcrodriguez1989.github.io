@@ -2,7 +2,7 @@
 title: "Education"
 output:
   html_document: 
-    toc: true
+    toc: false
     toc_float: true
 ---
 

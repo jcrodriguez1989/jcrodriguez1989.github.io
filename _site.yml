@@ -20,5 +20,3 @@ output:
   html_document:
     theme: journal
     css: custom-navbar-fix.css
-    includes:
-      after_body: navbar-fix.html

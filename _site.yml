@@ -19,3 +19,4 @@ navbar:
 output:
   html_document:
     theme: journal
+    css: site_libs/custom-navbar-fix.css

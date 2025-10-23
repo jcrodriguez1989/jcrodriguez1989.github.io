@@ -1,28 +1,46 @@
 /**
  * Navbar hamburger menu fix for mobile
- * Handles Bootstrap 3 navbar toggle collapse functionality
+ * Ensures Bootstrap 3 navbar toggle collapse functionality works across all environments
  */
-document.addEventListener("DOMContentLoaded", function () {
-  // Find all navbar toggle buttons
-  var toggles = document.querySelectorAll(".navbar-toggle");
-
-  toggles.forEach(function (toggle) {
-    toggle.addEventListener("click", function (e) {
-      e.preventDefault();
-
-      // Get the target navbar-collapse element
-      var target = document.querySelector(this.getAttribute("data-target"));
-
-      if (target) {
-        // Bootstrap 3 uses 'in' class for expanded state
-        if (target.classList.contains("in")) {
-          target.classList.remove("in");
-          this.classList.add("collapsed");
-        } else {
-          target.classList.add("in");
-          this.classList.remove("collapsed");
-        }
-      }
+(function() {
+  function setupNavbarToggle() {
+    var toggles = document.querySelectorAll(".navbar-toggle");
+    
+    toggles.forEach(function(toggle) {
+      toggle.removeEventListener("click", handleToggle); // Remove any existing listeners
+      toggle.addEventListener("click", handleToggle);
     });
-  });
-});
+  }
+
+  function handleToggle(e) {
+    // Check if Bootstrap is handling this
+    if (window.bootstrap && window.bootstrap.Dropdown) {
+      return; // Let Bootstrap 5 handle it
+    }
+    
+    var target = document.querySelector(this.getAttribute("data-target"));
+    if (!target) {
+      target = document.querySelector(this.getAttribute("data-bs-target"));
+    }
+    
+    if (target) {
+      // Toggle Bootstrap 3 'in' class for expanded state
+      target.classList.toggle("in");
+      this.classList.toggle("collapsed");
+    }
+  }
+
+  // Initialize on DOM ready
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", setupNavbarToggle);
+  } else {
+    setupNavbarToggle();
+  }
+  
+  // Also setup on jQuery ready if jQuery is available
+  if (typeof jQuery !== "undefined" && typeof jQuery.fn.ready !== "undefined") {
+    jQuery(function() {
+      setupNavbarToggle();
+    });
+  }
+})();

@@ -6,11 +6,14 @@ body {
 .navbar-toggle {
   border: 1px solid #ddd;
   background-color: #fff;
+  padding: 9px 10px;
+  position: relative;
 }
 
 .navbar-toggle:hover,
 .navbar-toggle:focus {
   background-color: #e8e8e8;
+  outline: 0;
 }
 
 .navbar-toggle .icon-bar {
@@ -19,22 +22,21 @@ body {
   width: 22px;
   height: 2px;
   border-radius: 1px;
+  margin: 3px 0;
 }
 
 /* Bootstrap 3 collapse functionality */
-@media (max-width: 767px) {
-  .navbar-collapse {
-    max-height: none !important;
-    overflow: visible !important;
-  }
+.navbar-collapse {
+  overflow-y: visible !important;
+}
 
-  .navbar-collapse.in {
-    display: block !important;
-  }
+.navbar-collapse.collapse {
+  display: none;
+}
 
-  .navbar-collapse.collapse {
-    display: none !important;
-  }
+.navbar-collapse.collapse.in,
+.navbar-collapse.collapsing {
+  display: block !important;
 }
 
 /* Mobile navbar adjustments */
@@ -48,7 +50,17 @@ body {
   }
 
   .navbar-collapse {
+    max-height: calc(100vh - 51px);
+    overflow-y: auto;
     border-top: 1px solid #e5e5e5;
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  }
+  
+  .navbar-collapse.collapse {
+    display: none !important;
+  }
+  
+  .navbar-collapse.in {
+    display: block !important;
   }
 }
